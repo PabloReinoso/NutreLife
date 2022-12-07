@@ -73,8 +73,7 @@
             android:textColorHint="@color/white"
             android:textColor="@color/white"
             android:inputType="textPassword"
-            android:padding="16dp"
-            app:passwordToggleEnable="true"/>
+            android:padding="16dp"/>
 
         <TextView
             android:id="@+id/recoveryAccountTextView"
